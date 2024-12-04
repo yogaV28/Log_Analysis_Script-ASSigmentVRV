@@ -88,6 +88,8 @@ The script will print the following information to the terminal:
    203.0.113.5, 8
    192.168.1.100, 5
    ```
+![image](https://github.com/user-attachments/assets/e91f28a8-c93c-4e40-9fea-d76dbffb0b04)
+
 CSV Output
 The results will be saved in log_analysis_results.csv with the following structure:
 
