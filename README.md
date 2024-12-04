@@ -120,6 +120,8 @@ Run the Application: Start the Thinker UI by executing:
 ![Screenshot 2024-12-05 002803](https://github.com/user-attachments/assets/991ad0e1-f2e7-42c8-ae3f-eb0e35d4a46d)
 
 **Export**: If you wish to save the results, use the "Export" button to download the data in CSV format.
+![ScreenRecording2024-12-05002723-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/eb056366-3cb1-45bb-a16a-b904139c6420)
+
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
