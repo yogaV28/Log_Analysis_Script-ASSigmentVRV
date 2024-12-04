@@ -115,8 +115,10 @@ Run the Application: Start the Thinker UI by executing:
    ```
 **Upload Your Log File**: Use the upload button in the UI to select your log file.
 ![Screenshot 2024-12-05 002753](https://github.com/user-attachments/assets/dc4cbc36-d990-4dea-b3d5-f4cce75a88d5)
+
 **Analyze**: Click on the "Analyze" button to process the log file and view the results.
 ![Screenshot 2024-12-05 002803](https://github.com/user-attachments/assets/991ad0e1-f2e7-42c8-ae3f-eb0e35d4a46d)
+
 **Export**: If you wish to save the results, use the "Export" button to download the data in CSV format.
 
 ## License
