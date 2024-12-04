@@ -126,4 +126,4 @@ Run the Application: Start the Thinker UI by executing:
 
 
 ## License
-This project is ![licensed](https://github.com/yogaV28/Log_Analysis_assigmentVRV/blob/main/LICENSE) under the MIT License. See the LICENSE file for details.
+This project is [licensed](https://github.com/yogaV28/Log_Analysis_assigmentVRV/blob/main/LICENSE) under the MIT License. See the LICENSE file for details.
