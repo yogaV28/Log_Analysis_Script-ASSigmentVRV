@@ -126,4 +126,4 @@ Run the Application: Start the Thinker UI by executing:
 
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is ![licensed](Licensed) under the MIT License. See the LICENSE file for details.
