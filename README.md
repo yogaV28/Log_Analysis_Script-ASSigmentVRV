@@ -13,7 +13,7 @@ The Log Analysis Script is a Python tool designed to analyze web server log file
 
 ## Requirements
 
-- Python 3.x
+- Python 3.13
 - No external libraries are required.
 
 ## Installation
@@ -136,10 +136,11 @@ This project is a web application built using Flask that allows users to upload 
 - **Export Results**: Download the analysis results in CSV format directly from the UI.
 
 ### Getting Started
+![ScreenRecording2024-12-09012529-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/095ec3ce-dd35-4c74-ab8b-56bb9f8d5f8e)
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.13
 - Flask
 - Flask-WTF
 - Flask-Bootstrap
@@ -149,6 +150,7 @@ This project is a web application built using Flask that allows users to upload 
    ```bash
    python app.py
    ```
+
 2. Access the Application:
 Open your web browser and go to http://127.0.0.1:5000/.
 
