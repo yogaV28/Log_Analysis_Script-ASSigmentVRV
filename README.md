@@ -151,6 +151,10 @@ This project is a web application built using Flask that allows users to upload 
    python app.py
    ```
 
+
+https://github.com/user-attachments/assets/59f85d23-b70f-44d4-884f-caf025373ec0
+
+
 2. Access the Application:
 Open your web browser and go to http://127.0.0.1:5000/.
 
