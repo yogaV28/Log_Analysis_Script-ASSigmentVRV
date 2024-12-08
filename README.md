@@ -124,6 +124,44 @@ Run the Application: Start the Thinker UI by executing:
 **Export**: If you wish to save the results, use the "Export" button to download the data in CSV format.
 ![ScreenRecording2024-12-05002723-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/eb056366-3cb1-45bb-a16a-b904139c6420)
 
+### Log Analysis Web Application
+
+This project is a web application built using Flask that allows users to upload web server log files, analyze them, and download the results in CSV format. The application provides insights such as the number of requests per IP address, the most accessed endpoints, and failed login attempts.
+
+### Features
+
+- **Upload Log Files**: Easily upload your web server log files for analysis.
+- **View Results**: Display analysis results in a visually appealing format.
+- **Filter Options**: Apply filters to focus on specific IP addresses or endpoints.
+- **Export Results**: Download the analysis results in CSV format directly from the UI.
+
+### Getting Started
+
+### Prerequisites
+
+- Python 3.x
+- Flask
+- Flask-WTF
+- Flask-Bootstrap
+
+### Running the Application
+1.Start the Flask Application:
+   ```bash
+   python app.py
+   ```
+2. Access the Application:
+Open your web browser and go to http://127.0.0.1:5000/.
+
+### Project Structure
+**app.py**: The main Flask application file handling routes and file uploads.
+**main.py**: Contains the logic for analyzing log entries.
+**templates/**: HTML templates for the web pages.
+**static/**: Contains static files like CSS for styling.
+
+### Usage
+1. **Upload a Log File**: Use the upload form on the homepage to select and upload your log file.
+2. **View Analysis Results**: After uploading, view the analysis results on the results page.
+3. **Download CSV**: Click the download button to save the analysis results as a CSV file.License
 
 ## License
 This project is [licensed](https://github.com/yogaV28/Log_Analysis_assigmentVRV/blob/main/LICENSE) under the MIT License. See the LICENSE file for details.
