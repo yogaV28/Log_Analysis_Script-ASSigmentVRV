@@ -124,7 +124,7 @@ Run the Application: Start the Thinker UI by executing:
 **Export**: If you wish to save the results, use the "Export" button to download the data in CSV format.
 ![ScreenRecording2024-12-05002723-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/eb056366-3cb1-45bb-a16a-b904139c6420)
 
-### Log Analysis Web Application
+## Log Analysis Web Application
 
 This project is a web application built using Flask that allows users to upload web server log files, analyze them, and download the results in CSV format. The application provides insights such as the number of requests per IP address, the most accessed endpoints, and failed login attempts.
 
